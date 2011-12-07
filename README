@@ -1,0 +1,9 @@
+Must be compiled using 32bit x86 ( see: http://forums.create.msdn.com/forums/t/4377.aspx#22601 )
+
+Libraries used
+ 
+ C# HTTPServer:
+ http://webserver.codeplex.com/
+ 
+ Swamiware Striker II Driver:
+ http://www.ninjagizmos.com/download.aspx
