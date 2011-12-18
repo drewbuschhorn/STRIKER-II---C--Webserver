@@ -1,0 +1,9 @@
+C:\temp\STRIKER-II---C--Webserver\NerfHttpServer\NerfHttpServer\bin\x86\Release\NerfHttpServer.exe
+C:\temp\STRIKER-II---C--Webserver\NerfHttpServer\NerfHttpServer\bin\x86\Release\NerfHttpServer.pdb
+C:\temp\STRIKER-II---C--Webserver\NerfHttpServer\NerfHttpServer\bin\x86\Release\HttpServer.dll
+C:\temp\STRIKER-II---C--Webserver\NerfHttpServer\NerfHttpServer\bin\x86\Release\Striker2API.dll
+C:\temp\STRIKER-II---C--Webserver\NerfHttpServer\NerfHttpServer\bin\x86\Release\HttpServer.pdb
+C:\temp\STRIKER-II---C--Webserver\NerfHttpServer\NerfHttpServer\bin\x86\Release\HttpServer.xml
+C:\temp\STRIKER-II---C--Webserver\NerfHttpServer\NerfHttpServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\temp\STRIKER-II---C--Webserver\NerfHttpServer\NerfHttpServer\obj\x86\Release\NerfHttpServer.exe
+C:\temp\STRIKER-II---C--Webserver\NerfHttpServer\NerfHttpServer\obj\x86\Release\NerfHttpServer.pdb

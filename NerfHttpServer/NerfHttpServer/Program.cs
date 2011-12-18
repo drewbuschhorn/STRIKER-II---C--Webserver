@@ -40,6 +40,7 @@ namespace NerfHttpServer
             HttpListener listener = HttpListener.Create(System.Net.IPAddress.Any, 8089);
             listener.RequestReceived += OnRequest;
             listener.Start(5);
+            Console.WriteLine("Active on port 8089");
 
             Thread.Sleep(9000000);
         }
